@@ -69,7 +69,7 @@ const SalesChart = () => {
   return (
     <Card>
       <CardBody>
-        <CardTitle tag="h5">Quadro de Vendas$$$$3000</CardTitle>
+        <CardTitle tag="h5">Quadro de Vendas $3.000.000.000,00</CardTitle>
         <CardSubtitle className="text" tag="h6">
           Yearly Sales Report
         </CardSubtitle>
